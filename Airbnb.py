@@ -12,7 +12,7 @@ st.set_page_config(page_title= "Airbnb Data Visualization",
                    page_icon= icon,
                    layout= "wide",
                    initial_sidebar_state= "expanded",
-                   menu_items={'About': """# This dashboard app is created by *Kaviya*!
+                   menu_items={'About': 
                                         Data has been gathered from mongodb atlas"""}
                   )
 
